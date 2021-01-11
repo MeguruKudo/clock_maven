@@ -162,6 +162,6 @@ public class ClockViewer extends JComponent{
             System.out.printf("create new background image: %s%n", size);
         }
 
-        
+        return image;
     }
 }
