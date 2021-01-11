@@ -24,7 +24,7 @@ public class Main{
 
         if(args.isShowVersion()){
             System.out.printf("Simple Analog Clock version %s%n", "1.0");
-        }
+        
         if(args.isShowHelp()){
             args.showHelp(parser);
         }
